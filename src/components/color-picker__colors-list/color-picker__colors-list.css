@@ -1,0 +1,10 @@
+.color-picker-colors-list{
+    align-self: flex-end;
+    justify-self: center;
+    margin: 0.5em;
+    width: 11em;
+    border: 0.1em solid black;
+    border-radius: 0.2em;
+    background-color: white;
+    box-shadow: 0 0 1em rgba(0,0,0,0.5);
+}

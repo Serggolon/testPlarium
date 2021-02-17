@@ -1,0 +1,9 @@
+.color-picker{
+    font-size: 14pt; /*изменяя этот параметр, все размеры частей color piker меняются пропорционально*/
+    margin: 1em;
+    padding: 0.2em;
+    width: 16.4em;
+    display: flex;
+    flex-flow: column nowrap;
+    background-color: lightgray;
+}

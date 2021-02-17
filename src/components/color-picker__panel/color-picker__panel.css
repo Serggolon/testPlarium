@@ -1,0 +1,34 @@
+.color-picker-panel {
+    padding: 0;
+    margin: 0;
+    align-self: center;
+    justify-self: center;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-around;
+    align-content: center;
+    border: 0.1em solid black;
+    border-radius: 0.2em;
+    width: 16em;
+    background-color: white;
+}
+
+.color-picker-panel p {
+    width: 7em;
+}
+
+.color-picker-panel-color-list-icon {
+    align-self: center;
+    height: 0.6em;
+    width: 0.6em;
+    border-top: 0.4em solid black;
+    border-right: 0.4em solid black;
+    transform: rotate(135deg);
+}
+
+.color-picker-panel-rgb-slider-icon {
+    align-self: center;
+    height: 1.1em;
+    width: 1.1em;
+    border: .05em solid black;
+}

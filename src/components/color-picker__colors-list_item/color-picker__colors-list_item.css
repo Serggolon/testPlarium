@@ -1,0 +1,24 @@
+.color-picker-colors-list-item {
+    height: 2em;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    background-color: white;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 0.2em;
+}
+
+.color-picker-colors-list-item:hover {
+    background: deepskyblue;
+}
+
+.color-picker-colors-list-item p {
+    width: 8em;
+    font-size: 1em;
+}
+
+.color-picker-colors-list-item article {
+    width: 1em;
+    height: 1em;
+}

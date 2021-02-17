@@ -1,0 +1,34 @@
+.color-bar-rgb-slider {
+    align-self: center;
+    justify-self: center;
+    margin: 0.5em;
+    width: 11em;
+    border: 0.1em solid black;
+    border-radius: 0.2em;
+    background-color: white;
+    box-shadow: 0 0 1em rgba(0, 0, 0, 0.5);
+}
+
+.color-bar-rgb-slider fieldset {
+    border: none;
+}
+
+.color-bar-rgb-slider-form button {
+    height: 2em;
+    width: 6em;
+    margin: 0.5em;
+    border-radius: 0.1em;
+    border: 0.05em solid darkgrey;
+}
+
+button[class$="cancel"] {
+    width: 6em;
+    background-color: lightgrey;
+    color: grey;
+}
+
+button[class$="ok"] {
+    width: 4em;
+    background-color: green;
+    color: whitesmoke;
+}
