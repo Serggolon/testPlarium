@@ -1,3 +1,8 @@
+Color-picker builded using React with hooks based on functional components.
+Has tool to pick color from the list or another tool to pick color using 3 sliders RGB.
+There is the icon witch represent choosen color.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
